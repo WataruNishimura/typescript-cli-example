@@ -1,0 +1,14 @@
+{
+  "name": "typescript-cli-example",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "test-cli": "^0.1.0",
+    "typescript": "^5.3.3"
+  },
+  "bin": {
+    "test-cli": "bin/test-cli"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}
